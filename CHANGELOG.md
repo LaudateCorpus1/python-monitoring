@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-monitoring/#history
 
+## [2.9.0](https://github.com/googleapis/python-monitoring/compare/v2.8.0...v2.9.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#270](https://github.com/googleapis/python-monitoring/issues/270)) ([412b9fc](https://github.com/googleapis/python-monitoring/commit/412b9fc844b8be1a5c763c02a244c2cbecb8091d))
+
 ## [2.8.0](https://www.github.com/googleapis/python-monitoring/compare/v2.7.0...v2.8.0) (2021-11-16)
 
 
